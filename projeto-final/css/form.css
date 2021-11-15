@@ -11,5 +11,10 @@
 }
 
 .button-place {
+    padding-top: 18px;
     text-align: center;
+}
+
+.button {
+    cursor: pointer;
 }
