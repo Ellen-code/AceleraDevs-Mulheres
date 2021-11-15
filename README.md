@@ -1,5 +1,5 @@
 <h1 id="acelera">#AceleraDevs-Mulheres 🚀♀️ </h1> 
-<h2>Programa de formação front-end da TIVIT com apoio da Academia MCIO.<h2>
+<h2>Programa de formação front-end da TIVIT com apoio da Academia MCIO.</h2>
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Ellen-code/AceleraDevs-Mulheres?color=redwhite&style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/Ellen-code/AceleraDevs-Mulheres?style=for-the-badge)
@@ -37,6 +37,7 @@
 <h3>Front-End</h3>
   
 <h4>HTML & CSS</h4>
+
 - Acessibilidade web parte 1: tornando seu front-end inclusivo 
 - JavaScript a linguagem da web
 - JavaScript: primeiros passos com a linguagem 
@@ -44,6 +45,7 @@
 - JavaScript: interfaces e herança em orientação a objetos 
   
 <h4>Front-End & UI</h4>
+
 - Layouts Responsivos: Trabalhando com layouts mobile 
 - Arquitetura CSS: Descomplicando os problemas 
 - Fundamentos de SEO: Primeiros passos para ranquear seu site na busca orgânica
@@ -51,6 +53,7 @@
 - CSS Grid: Simplificando layouts
   
 <h4>Sites interativos</h4>
+
 - JS na Web: Manipule o DOM com JavaScript
 - JS na Web: Armazenando dados no navegador
 - Expressões regulares: capturando textos de forma mágica
