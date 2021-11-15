@@ -1,7 +1,11 @@
-<h1 id="acelera">#AceleraDevs-Mulheres 🚀♀️ </h1> 
-<h2>Programa de formação front-end da TIVIT com apoio da Academia MCIO.</h2>
+<h1># AceleraDevs-Mulheres 🚀♀️ </h1> 
+<h3>Programa de formação front-end da TIVIT com apoio da Academia MCIO.</h3>
+
+## ℹ️ Informações do projeto
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Ellen-code/AceleraDevs-Mulheres?color=red&style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/Ellen-code/AceleraDevs-Mulheres?style=for-the-badge)
+![GitHub watchers](https://img.shields.io/github/watchers/Ellen-code/AceleraDevs-Mulheres?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/Ellen-code/AceleraDevs-Mulheres?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/Ellen-code/AceleraDevs-Mulheres?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Ellen-code/AceleraDevs-Mulheres?style=for-the-badge)
@@ -70,4 +74,4 @@
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
 
-[⬆ Voltar ao topo]<a href="#acelera"></a><br>
+[⬆ Voltar ao topo](#AceleraDevs-Mulheres)<br>
