@@ -1,7 +1,7 @@
 <h1 id="acelera">#AceleraDevs-Mulheres 🚀♀️ </h1> 
 <h2>Programa de formação front-end da TIVIT com apoio da Academia MCIO.</h2>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Ellen-code/AceleraDevs-Mulheres?color=redwhite&style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/Ellen-code/AceleraDevs-Mulheres?color=red&style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/Ellen-code/AceleraDevs-Mulheres?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/Ellen-code/AceleraDevs-Mulheres?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Ellen-code/AceleraDevs-Mulheres?style=for-the-badge)
@@ -60,7 +60,8 @@
 - JS na web: CRUD com JavaScript assíncrono
 - JavaScript na Web: validação de formulários e HTML5
   
-<h3> ✨ Bônus ✨</h3>
+<h3> ✨ Bônus ✨ </h3>
+
 - Aprender a aprender
 - Kanban: Fundamentos essenciais
 - SCRUM: agilidade em seu projeto
