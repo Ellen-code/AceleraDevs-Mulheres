@@ -1,0 +1,29 @@
+<meta charset=UTF-8>
+
+<h2>Média de Gerações</h2>
+
+<script>
+
+    function pulaLinha() {
+        document.write("<br>");
+    }
+
+    function mostra (frase) {
+        document.write(frase);
+    }
+
+    var geracaoAtual = 2021-1500
+    var media_28 = geracaoAtual/28
+
+    mostra("Desde 1.500 já se passaram " +  Math.round(media_28)  + " gerações.");
+    pulaLinha();
+
+
+    var idadeMediaQuandoTemFilhos = 28;
+    var anoAtual = 2021;
+
+    var quantidadeDeGeracoes = (anoAtual - 1500) / idadeMediaQuandoTemFilhos;
+
+    mostra(quantidadeDeGeracoes);
+
+</script>

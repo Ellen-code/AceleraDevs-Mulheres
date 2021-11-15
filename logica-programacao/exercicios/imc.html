@@ -1,0 +1,93 @@
+<meta charset = "UTF-8">
+
+<script>
+
+    function pulaLinha() {
+        document.write("<br><hr><br>");
+    }
+
+    function mostra(frase) {
+        document.write("<big>" + frase + "</big>");
+        pulaLinha();
+    }
+
+   /*
+    var pesoEllen = 48;
+    var alturaEllen = 1.53;
+    var imcEllen = (pesoEllen / (alturaEllen * alturaEllen)).toFixed(2);
+
+    mostra("O Imc da Ellen é " + imcEllen);
+
+    
+    function calculaImc(peso, altura) {
+        var imc = peso / (altura * altura);
+        mostra("O imc calculado é " + imc.toFixed(2));
+    }
+    
+
+    calculaImc(48, 1.53);
+    calculaImc(49, 1.54);
+    */
+
+
+    /*
+    function calculaImc(peso1, altura1, peso2, altura2) {
+        var imc1 = peso1 / (altura1 * altura1);
+        var imc2 = peso2 / (altura2 * altura2);
+        var imcTotal = imc1 + imc2;
+        mostra("A soma dos imc's é de " + imcTotal);
+    }
+
+    calculaImc(48, 1.53, 49, 1.54);
+    */
+
+    /*
+    function calculaImc(peso, altura) {
+        var imc = peso / (altura * altura);
+        return imc;
+    }
+
+    var imcEllen = calculaImc(48, 1.53);
+    var imcErica = calculaImc(49, 1.54);
+
+    mostra(imcEllen.toFixed(2));
+    mostra(imcErica.toFixed(2));
+    */
+
+    /*
+    function calculaImc(peso, altura) {
+        return peso / (altura * altura);
+    }
+
+    var imcEllen = calculaImc(48, 1.53);
+    var imcErica = calculaImc(49, 1.54);
+    //var imcTotal = imcEllen + imcErica;
+
+    mostra("A soma dos dois imc's é " + (imcEllen + imcErica).toFixed(2));
+    */
+
+    function calculaImc(peso, altura) {
+        return peso / (altura * altura);
+    }
+
+    var nome = prompt("Informe o seu nome: ");
+    var alturaInformada = prompt("Informe a sua altura: ")
+    var pesoInformado = prompt("Informe o seu peso: ")
+
+    var imc = calculaImc(pesoInformado, alturaInformada).toFixed(2);
+
+    mostra(nome + ", o seu IMC calculado é: " + imc)
+
+    if (imc < 18.5) {
+        mostra("Você está abaixo do recomendado");
+    }
+
+    if(imc > 35) {
+        mostra("Você está acima do recomendado.");
+    }
+
+    if (imc >= 18.5 && imc <= 35) {
+            mostra("Seu IMC está excelente!");
+    }
+
+</script>
